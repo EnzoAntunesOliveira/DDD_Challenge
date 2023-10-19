@@ -30,6 +30,9 @@
 * testadas com uma variedade de usuários com necessidades especiais para garantir a
 * acessibilidade adequada.
 * 
-* Autor: Enzo Antunes Oliveira
+* Autor: Enzo Antunes Oliveira Rm: 553185
+* Colaboradores: Felipe Faria Semensato RM: 553415  
+* Vinicio Raphael Santana RM: 553813
+* 
 * Data de Criação: 16/10/2023
 */
